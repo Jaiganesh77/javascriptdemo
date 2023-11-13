@@ -1,3 +1,3 @@
 # javascriptdemo
 live preview code
-https://Jaiganesh77.github.io/bootstrap/javascriptdemo/demo.html
+https://Jaiganesh77.github.io/javascriptdemo/demo.html
